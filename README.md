@@ -5,4 +5,6 @@
 ## 运行环境
 jupyter
 ## 目录结构描述
-data中存放的diabetes1为pima印第安人糖尿病数据集，
+diabetes1为pima印第安人糖尿病数据集
+undefind9中存放的是对于支持向量机，在不同核函数下的精确度、查准率、召回率和f1-score得分
+
